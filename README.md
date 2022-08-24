@@ -21,7 +21,7 @@ The goal of this work is to answer questions such as
 * *Which days of the week do forest fires happen the most?*
 * *Any of the variables have values that stand out during August and September, which we’ve previously confirmed sees a lot of fires?*
  
-![](https://github.com/rennnas/guided-project-r-2/blob/main/guided-project-2-imagem1.png
+![](https://github.com/rennnas/guided-project-r-2/blob/main/guided-project-2-imagem1.png)
 ![](https://github.com/rennnas/guided-project-r-2/blob/main/guided-project-2-imagem2.png)
 ![](https://github.com/rennnas/guided-project-r-2/blob/main/guided-project-2-imagem3.png)
 ![](https://github.com/rennnas/guided-project-r-2/blob/main/guided-project-2-imagem4.png)
